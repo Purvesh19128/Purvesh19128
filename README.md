@@ -1,27 +1,43 @@
-# Purvesh Patel | Python & Web Developer 👋
+👋 Hi, I'm Purvesh Patel
 
-B.C.A. graduate specializing in secure web apps and robust backend architecture.[cite: 1]
+Python Developer | Flutter Developer | Android Enthusiast
 
-### 🛠️ Tech Stack
-- Python, SQL, Java[cite: 1]
-- Authentication Protocols, Database Structuring[cite: 1]
+I build scalable applications using Python, Flutter, and modern software development practices.
 
-### 🚀 Key Project
-- **Crowdfunding Web App:** End-to-end Python & SQL system with secure session handling.[cite: 1]
+Currently Learning
+• Django
+• FastAPI
+• REST APIs
+• Firebase
+• Docker
 
-📍 Surat, India[cite: 1] | 📧 purveshpatel3905r@gmail.com[cite: 1]
+Tech Stack
 
-<!--
-**Purvesh19128/Purvesh19128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python
+Flutter
+Dart
+Android
+Git
+GitHub
+SQLite
+Firebase
 
-Here are some ideas to get you started:
+Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Store Management System
+Expense Tracker
+Portfolio Website
+Flutter Notes App
+Python Automation Scripts
+
+Achievements
+
+BCA Graduate
+Python Developer
+Flutter Developer
+
+Contact
+
+LinkedIn
+Portfolio
+Email
