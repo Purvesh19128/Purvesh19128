@@ -38,6 +38,6 @@ Flutter Developer
 
 Contact
 
-LinkedIn
-Portfolio
-Email
+LinkedIn :- www.linkedin.com/in/purvesh-patel-48a085355
+Portfolio :- 
+Email :- purveshpatel3905r@gmail.com
